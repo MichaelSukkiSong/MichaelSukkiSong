@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Codebuddy 😆
-- 🌱 I’m currently learning Vite 👨‍💻
+- 🌱 I’m currently learning Firebase 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

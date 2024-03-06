@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ezjobhunt 😆
-- 🌱 I’m currently learning Firebase 👨‍💻
+- 🌱 I’m currently learning vercel ai sdk 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

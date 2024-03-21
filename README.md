@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on EzUI 😆
-- 🌱 I’m currently learning vercel ai sdk 👨‍💻
+- 🌱 I’m currently learning video sdk, shadcn, radixui 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

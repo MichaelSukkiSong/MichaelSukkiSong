@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on EzUI 😆
+- 🔭 I’m currently working on db8ai 😆
 - 🌱 I’m currently learning video sdk, shadcn, radixui 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him

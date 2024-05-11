@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on db8ai 😆
-- 🌱 I’m currently learning video sdk, shadcn, radixui 👨‍💻
+- 🌱 I’m currently learning web3.0 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

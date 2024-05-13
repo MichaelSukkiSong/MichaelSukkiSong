@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on db8ai 😆
-- 🌱 I’m currently learning web3.0 👨‍💻
+- 🌱 I'm currently diving into all things Blockchain 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -10,6 +9,7 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on db8ai 😆
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently diving into all things Blockchain 👨‍💻
+- 🌱 I'm currently diving into all things Blockchain (smart contracts, solidity, ethereum, etc.) 👨‍💻
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

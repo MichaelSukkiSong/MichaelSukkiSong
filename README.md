@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm currently diving into all things Blockchain (smart contracts, solidity, ethereum, etc.) 👨‍💻
+- 🌱 I'm currently learning all things blockchain (ethereum ecosystem, smart contracts, solidity, etc) and golang 👨‍💻
+- 👯 I’m looking to collaborate on ... building dApps
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

@@ -2,6 +2,7 @@
 
 - 🌱 I'm currently learning the ethereum ecosystem, solidity, foundry 👨‍💻
 - 👯 I’m looking to collaborate on building dApps
+- 🤔 I’m looking for help with EVM, DeFi
 - 📫 How to reach me: michael.sukki.song@gmail.com
 - 😄 Pronouns: He/Him
 

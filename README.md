@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning the ethereum ecosystem, solidity, foundry 👨‍💻
-- 👯 I’m looking to collaborate on building dApps
-- 🤔 I’m looking for help with EVM, DeFi
+- 🌱 I'm currently learning about Defi and Security 👨‍💻
+- 👯 I’m looking to collaborate on building Defi Apps, finding Hacks in protocols
+- 🤔 I’m looking for help with DeFi
+- 💬 Ask me about ...solidity, foundry
 - 📫 How to reach me: michael.sukki.song@gmail.com
-- 😄 Pronouns: He/Him
 
 <!--
 **MichaelSukkiSong/MichaelSukkiSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

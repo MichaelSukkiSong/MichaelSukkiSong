@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I'm currently learning about Defi and Security 👨‍💻
-- 👯 I’m looking to collaborate on building Defi Apps, finding Hacks in protocols
-- 🤔 I’m looking for help with DeFi
+- 👯 I’m looking to collaborate on finding Hacks in protocols
+- 🤔 I’m looking for help with Rust
 - 💬 Ask me about ...solidity, foundry
 - 📫 How to reach me: michael.sukki.song@gmail.com
 

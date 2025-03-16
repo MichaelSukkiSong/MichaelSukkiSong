@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning about Defi and Security 👨‍💻
+- 🌱 I'm currently learning about Defi, Security, EVM opcodes 👨‍💻
 - 👯 I’m looking to collaborate on finding Hacks in protocols
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about ...solidity, foundry
